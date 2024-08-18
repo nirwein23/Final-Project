@@ -1,4 +1,4 @@
-# Data Waste Israel
+# Waste Data in Israel
 
 This project analyzes and predicts waste disposal patterns in various cities across Israel. By leveraging demographic, infrastructural, and environmental data, the project aims to identify key factors influencing public waste disposal behavior and provide actionable insights for improving urban waste management.
 
